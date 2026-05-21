@@ -48,4 +48,9 @@ git clone https://github.com/JunyoungOh/easy_language.git ~/.claude/skills/plain
 
 ## 만든 경위
 
-Claude Code의 skill-creator로 제작했습니다. 자유롭게 쓰고 고치세요.
+Claude Code의 skill-creator로 제작했습니다.
+
+## 라이선스
+
+MIT 라이선스 — 누구나 자유롭게 쓰고, 고치고, 다시 배포할 수 있습니다
+(상업적 이용 포함). 자세한 내용은 [LICENSE](LICENSE) 파일을 보세요.
